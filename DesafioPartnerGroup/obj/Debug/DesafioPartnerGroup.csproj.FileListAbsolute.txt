@@ -1,0 +1,2 @@
+C:\Lixo\DesafioPartnerGroup\DesafioPartnerGroup\DesafioPartnerGroup\obj\Debug\DesafioPartnerGroup.csprojAssemblyReference.cache
+C:\Lixo\DesafioPartnerGroup\DesafioPartnerGroup\DesafioPartnerGroup\obj\Debug\DesafioPartnerGroup.csproj.CoreCompileInputs.cache
